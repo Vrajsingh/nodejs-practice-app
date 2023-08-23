@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this is sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build_in_http_server_module.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "pokemon": "^2.3.5"
+  }
+}
