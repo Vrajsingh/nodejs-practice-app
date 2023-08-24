@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const PORT = process.env.PORT || 4000;
 const hostname = "localhost";
-const home = fs.readFileSync("./http_server.html", "utf-8");
+const home = fs.readFileSync("./httpServer.html", "utf-8");
 
 console.log(__dirname);
 

@@ -4,7 +4,7 @@
   "description": "this is sample",
   "main": "index.js",
   "scripts": {
-    "start": "node build_in_http_server_module.js",
+    "start": "node buildInHttpServerModule.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
